@@ -1,1 +1,1 @@
-# banketailmanegement
+THIS CONTAIN INSTRUCTION OF PROJECT
